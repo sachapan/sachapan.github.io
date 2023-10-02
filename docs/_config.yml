@@ -27,9 +27,9 @@ github_username:  sachapan
 # Build settings
 markdown: kramdown
 theme: minima
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme
+#remote_theme: pages-themes/slate@v0.2.0
+#plugins:
+#- jekyll-remote-theme
 plugins:
   - jekyll-feed
 
