@@ -6,7 +6,7 @@ Categories:
     - Organization
 ---
 
-# Logseq
+# Using Logseq as a second brain
 
 ## Where I came from and how I got here
 
