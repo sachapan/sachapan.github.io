@@ -38,7 +38,10 @@ Three samples that got me thinking.
 
 - [Personal Knowledge Management Logseq Methods and Madness - Michael Carducci](https://youtu.be/qWQD2leCpCQ?si=Xa7nu0Kv5KuZWmVo)
 
+
 Now, I subscribe firmly to the idea that brains are best for thinking and problem solving and far too valuable a resource to burden with trying to remember every trivial (at least at the time) matter.  So having a trusted system appeals to me on many levels.  The tough part is "trusted."  By 2024 I think it is safe to say that most knowledge workers have been impacted by oh-so-cool-corp dropping/cancelling/selling/changing the pricing model overnight of their wizzbang widget/app/service.
+
+![](./brain-tabs.jpg)
 
 I tend to approach new systems with less excitement and more caution than I once did.  But I was willing to give it a try.  And so I set a goal of trying it for three months to see if the LogSeq system was one that would work for me.  It just so happened to be the first week of January so the three month trial would run until the end of March 2024.  I was curious to see whether the "record things in the journal and don't worry about organizing the information up front" approach was going to work for me.  The month went by and I looked back and only missed making notes on one day.
 
@@ -64,6 +67,6 @@ There were a few themes uncovered in my weeks of data capture that I spent a few
 
 ## Conclusion
 
-So what pithy conclusion shall I make on my experiment of learning and using Logseq for now four months?  Overall, I am satisfied with the product and my results.  Do I think it is the be all, end all of note taking?  No.  Do I think it is a system that everyone should adopt? No, although it is marketed as simple (because text), in reality there are many finer points in its use that may be off putting to the average person.  For me, the real question is will I continue using it now the experimental period has ended? And for me, that answer is yes.  The second brain concept clicks with me, the everything starts as a journal entry works for my way of thinking too.  And the fact that the effort I have put into learning a bit about logseq has resulted in some simple text files that I have replicated, backed up and accessible is valuable.  If tomorrow I decide to abandon Logseq my data is still in text files.  Text files I can manipulate in vim or python, with sed or awk or bash.  Of all the things that logseq is and isn't, that is the real advantage for me.
+So what pithy conclusion shall I make on my experiment of learning and using Logseq for nigh on four months?  Overall, I am satisfied with the product and my results.  Do I think it is the be all, end all of note taking?  No.  Do I think it is a system that everyone should adopt? No, although it is marketed as simple (because text), in reality there are many finer points in its use that may be off putting to the average person.  For me, the real question is will I continue using it now the experimental period has ended? And for me, that answer is yes.  The second brain concept clicks with me, the everything starts as a journal entry works for my way of thinking too.  And the fact that the effort I have put into learning a bit about logseq has resulted in some simple text files that I have replicated, backed up and accessible is valuable.  If tomorrow I decide to abandon Logseq my data is still in text files.  Text files I can manipulate in vim or python, with sed or awk or bash.  Of all the things that logseq is and isn't, that is the real advantage for me.
 
 This markdown file was created in logseq.
