@@ -1,5 +1,5 @@
 # sachapan's place
 
-Wheren vi and git are in a committed relationship.
+Wherein vim and git are in a committed relationship.
 
 
