@@ -1,4 +1,4 @@
-# Mental and often technical meanderings 
+# Mental and technical meanderings 
 
 _Wherein vim and git are in a committed relationship._
 
