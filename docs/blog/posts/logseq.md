@@ -52,21 +52,23 @@ There were a few themes uncovered in my weeks of data capture that I spent a few
 ## My use a.k.a. what's working for me and what ain't
 
 ### Things I like
-		- Text backend is huge.  My data, I am in control - backups, replication, opening with other tools
-		- My three main platforms for daily compute are supported - Windows, Android, IoS
-		- Using the journal entries as the main entry point frees the mind from thinking about organization first.  Content first approach appeals to me.
-		- I think it is making me capture more "rough" content for my future self to access and maybe organize or maybe just have available via search.
-			- Ease of creating tags
+- Text backend is huge.  My data, I am in control - backups, replication, opening with other tools
+- My three main platforms for daily compute are supported - Windows, Android, IoS
+- Using the journal entries as the main entry point frees the mind from thinking about organization first.  Content first approach appeals to me.
+- I think it is making me capture more "rough" content for my future self to access and maybe organize or maybe just have available via search.
+- Ease of creating tags
 
 ### Things I don't like (so far)
-		- Larger blocks of text I want to paste in can't be edited.  This 'everything is an outline' approach is a double edged sword.
-		- I don't know enough about the upcoming "database version" but I am concerned that it may corrupt the beauty and simplicity of "text files are the backend" philosophy.
-		- Too many orphaned files seemingly from [[android]] replication is annoying.
-		- Many of the articles highlighting what can be done with logseq focus on plugins.  My primary device is my ipad.  Plugins only work on the desktop app.
-		- The roadmap and updates from the dev team seem sporadic at best.
+- Larger blocks of text I want to paste in can't be edited.  This 'everything is an outline' approach is a double edged sword.
+- I don't know enough about the upcoming "database version" but I am concerned that it may corrupt the beauty and simplicity of "text files are the backend" philosophy.
+- Too many orphaned files seemingly from android replication is annoying.
+- Many of the articles highlighting what can be done with logseq focus on plugins.  My primary device is my ipad.  Plugins only work on the desktop app.
+- The roadmap and updates from the dev team seem sporadic at best.
 
 ## Conclusion
 
-So what pithy conclusion shall I make on my experiment of learning and using Logseq for nigh on four months?  Overall, I am satisfied with the product and my results.  Do I think it is the be all, end all of note taking?  No.  Do I think it is a system that everyone should adopt? No, although it is marketed as simple (because text), in reality there are many finer points in its use that may be off putting to the average person.  For me, the real question is will I continue using it now the experimental period has ended? And for me, that answer is yes.  The second brain concept clicks with me, the everything starts as a journal entry works for my way of thinking too.  And the fact that the effort I have put into learning a bit about logseq has resulted in some simple text files that I have replicated, backed up and accessible is valuable.  If tomorrow I decide to abandon Logseq my data is still in text files.  Text files I can manipulate in vim or python, with sed or awk or bash.  Of all the things that logseq is and isn't, that is the real advantage for me.
+So what pithy conclusion shall I make on my experiment of learning and using Logseq for nigh on four months?  Overall, I am satisfied with the product and my results.  Do I think it is the be all, end all of note taking?  No.  Do I think it is a system that everyone should adopt? No, although it is marketed as simple (because text), in reality there are many finer points in its use that may be off putting to the average person, which is not to say that you should avoid trying it.  
+
+For me, the real question is will I continue using it now the experimental period has ended? And for me, that answer is yes.  The second brain concept clicks with me, the everything starts as a journal entry works for my way of thinking too.  And the fact that the effort I have put into learning a bit about logseq has resulted in some simple text files that I have replicated, backed up and accessible is valuable.  If tomorrow I decide to abandon Logseq my data is still in text files.  Text files I can manipulate in vim or python, with sed or awk or bash.  Of all the things that logseq is and isn't, that is the real advantage for me.
 
 This markdown file was created in logseq.
