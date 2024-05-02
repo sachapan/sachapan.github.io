@@ -9,7 +9,7 @@ Categories:
 
 ## Of Grey Beards
 
-![](./grey-beard-1.jpg)
+<img src="./grey-beard-1.jpg" width=600>
 
  As I look in the mirror this morning, I see a grey bearded man staring back.  Of course, that isn't a recent phenomenon in this particular mirror of mine but today it reminds me of how young UNIX admins spoke in hushed tones of the older admins who had been there 'since the beginning.'  As did I for many years, because I was one of those young admins, "Pimple Faced Youth" in the [register's nomenclature](https://search.theregister.com/?q=PFY).  'Grey beard' was the term of respect for the guys (and occasionally gals) who had cut their teeth on early C and knew the esoteric ways of commands like ed and never needed to use cursor keys and certainly not a mouse.  They could talk at length about PDP-11s and mastering the ways of the olden times.  They spoke of tapes and punch cards.  Of working late at night simply because that was the only time they could get time for a compilation on the system.  They could tell stories of when Big Iron meant room sized systems with jet engine like noise.  Their fingers had individual minds of their own while on the keyboard, such was the power of their muscle memory.  The particularly cantankerous ones would simply utter harrumphs when thorny subjects like [vi versus emacs](https://en.wikipedia.org/wiki/Editor_war) were tabled and refuse to engage in such frivolous chatter.  If you are unaware, this is the equivalent of GM versus Ford debates among the passionate car culture.  Or perhaps Subaru versus Honda.
 
@@ -47,10 +47,6 @@ Some team changes and some promotions later and I find myself in a discussion re
 
 So what to adopt as the standard for the organization?  Although we discussed debian there really wasn't much in the way of commercial support available at that time.  There were a few smaller contenders but really only two distributions with support organizations behind them: RedHat and SUSE.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/SUSE_logo.svg/320px-SUSE_logo.svg.png)
-
-![](https://1000logos.net/wp-content/uploads/2021/04/Red-Hat-logo.png)
-
 The conversation proved to be brief: Red Hat had North American presence and SUSE really did not.  Decision made: we will work with Red Hat.  No big RFP, no committee debating endlessly, no non-technical people weighing in.  It really wasn't a complicated decision with a bunch of angles to consider but in an organization of any size decisions of this nature are not usually quick nor easy.  But this one was: Linux deployed on HP servers it is - RHEL 5 specifically.  As an aside, or to make this post (essay?) even a sentence or two longer....this was about the time that blade servers in the x86/x64 world were becoming popular.
 
 And Red Hat was great to work with.  They brought senior technical people to the table as we formed the architecture, as we built deployment scenarios and scripts, as we struggled with some HP driver idiosyncrasies because this was brand new hardware and there weren't many companies deploying RHEL on these systems at that time.  Because of the objectives for the project, we also needed new networking standards across the critical part of the enterprise.  So basically everything was changing, and changing all at once.  There aren't too many opportunities in a large organization (or at least large-ish) to make this kind of wholesale, fundamental, changes to systems architecture.
@@ -65,7 +61,7 @@ Over the years after that project, numerous other projects and migrations partic
 
 ## Of Purple Hats
 
-![](./grey-beard-3.jpg)
+<img src="./grey-beard-3.jpg" width=600>
 
 On my personal systems I have come from Slackware to debian and its variants.  I have always respected the enterprise value of Red Hat from a support perspective and never had any regrets that we choose that for the organization I worked for in that brief meeting in my office so many years ago but I am more of a DIY guy and just like .deb more than .rpm.  Yes, ubuntu and friends have a place in my history and I still have some machines running ubuntu at this moment but I find myself veering more and more to Debian native.
 
@@ -93,4 +89,4 @@ So then what is the answer as if there were a single answer?  Is it simply a mat
 
 How would I know, I'm just a grey beard still playing with Linux.
 
-![](./grey-beard-2.jpg)
+<img src="./grey-beard-2.jpg" width=600>
