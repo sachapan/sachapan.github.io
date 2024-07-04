@@ -9,6 +9,9 @@ Perhaps others may benefit in some way, sometime, some how.  As I have from what
 
 Well, that got weird, what is this the lyrics to Dust in the Wind.
 
+<img src="./business man dust storm.jpeg" width=1024>
+
+
 
 
 
