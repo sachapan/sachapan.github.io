@@ -25,7 +25,10 @@ theme:
         name: Switch to light mode
       primary: teal
       accent: lime
-
+nav:
+  - index.md
+  - Blog:
+    - blog/index.md
 plugins:
   - blog
 markdown_extensions:
