@@ -7,7 +7,7 @@ Categories:
 
 ## The Challenges of Information Currency
 
-<img src="NUGGET.jpg" width=600>
+<img src="NUGGET.jpg" size=600>
 
 
 I recently found myself searching for a nugget of technical information related to Prometheus, although the specifics are rather pedestrian to this discussion.  The function I needed to implement for a client wasn't seemingly obscure although it hadn't been available in early versions of the product: time based alert routing options such that certain alerts would be treated differently based purely on time of day.  There were numerous articles, blogs and technical forums with a variety of solutions including code snippets to address this requirement.  Thoughtful of technical folk to take there valuable time to post these ideas.  The only trouble was: none of the code works with the current version and so the various web pages were of little value in solving my requirement.
