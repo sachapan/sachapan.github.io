@@ -1,4 +1,14 @@
-(nugget.jpg)
+---
+date: 2024-10-01
+Categories:
+- Documentation
+- Open Source
+---
+
+## The Challenges of Information Currency
+
+<img src="NUGGET.jpg" width=600>
+
 
 I recently found myself searching for a nugget of technical information related to Prometheus, although the specifics are rather pedestrian to this discussion.  The function I needed to implement for a client wasn't seemingly obscure although it hadn't been available in early versions of the product: time based alert routing options such that certain alerts would be treated differently based purely on time of day.  There were numerous articles, blogs and technical forums with a variety of solutions including code snippets to address this requirement.  Thoughtful of technical folk to take there valuable time to post these ideas.  The only trouble was: none of the code works with the current version and so the various web pages were of little value in solving my requirement.
 
@@ -18,7 +28,7 @@ Aside from the sheer duration that a deployment to production took, it meant Sen
 
 One could rightly infer that deploying a version upgrade to production was a messy, expensive proposal, fraught with many fatal pitfalls and dangers lurking around every bend.  Many a decomposing body lay on the path, dead by either negligence or political malice.
 
-(sacred-production.jpg)
+<img src="sacred-production.jpg" size=500>
 
 This was not the path of younger enterprises driven by entrepreneurial hutzpa, where production was a malleable object to be reincarnated with every week or even day a new creation.  In these orgs it was often a case of smaller releases, smaller deployments and even before the days of Continuous Integration.
 
@@ -35,8 +45,9 @@ All 3 groups are likely going to need to reference a document of some kind.  Now
 - But in the last 25 or more years, documents are available on supplier web sites.  BTW I purposely choose to use the word supplier rather than vendor to include both commercial and non-commercial entities.  And with user forums, hosted various and sundry locations, reddit, the *stack web sites, personal blogs, archived social media posts there are many, many nooks and crannies where that nugget of knowledge may be hidden away for and possibly from you.  You hope it is out there, somewhere, waiting to be discovered so you can [insert task here] and go home or least complete one of the 1,538 tasks in your queue.  Search engines are happy to oblige and supply a slurry of results for you to manually sift through, panning for the nugget.
 
 - With each click of the mouse on a link with a summary, you alternate between optimism and negativity.  As the list of links slowly shrinks, you struggle to keep your focus.  Might this one have the answer?  At first it looks promising but is applicable to your installed version?  Nope.  You attempt to fine tune the search parameters to weed out the chaff for this particular query.  Your heart quickens as you explore another discussion in an obscure corner of the Internet with potential.  But no, yet another dead end.  You look at the browser tabs that represent your futility of the search for the nugget.  You feel a slight sense of shame.  No trouble finding others who posted their similar query but each one ends either with non helpful answers from no doubt well meaning netizens (do we still say netizens?).  Particularly troubling are the questions on the vendor forums with exactly zero responses.  As if the question hangs on the event horizon of a black hole.  Forever asked, forever silent.  A question that is remarkably like your own. 
-  image of question mark being sucked black hole.  
-  Image ven diagram: "stuff the software can","stuff I need to do","stuff I found docs to do"  
+
+  <img src="Question mark black hole.jpg">
+  
   
 ### What to do?
 
@@ -46,7 +57,7 @@ Personal blogs, comments, etc. can be enhanced by specific references to softwar
 
 Supplier forums should have fewer questions with zero responses.  Even if there isn't someone whose job it is to monitor the forum for these questions, the regular posters can add something to these even if it is simply "I am not aware of any way to do this.  I am running version 4.2.5.3". Now I will grant that there are, in fact, contrary to what presenters often make a point of telling their audience "stupid questions."  On a forum for cars, "I am currently trying to get a flux capacitor working in my Impala to get to Mars.  I can't find proven plans for the correct OBD II interface.  Can you help me?"  Now, of course, someone would be well within the bounds of polite Internet banter to point out that flux capacitors may in fact be relevant at some point in the future.  I will update the blog when that happens.....because versions.
 
- But these are just two small, rather insignificant ideas.  I believe one of the other issue that need addressing is deprecating documentation.  What I mean by that is just as software versions are sunset, either from a support contract or "we ain't supporting that version no mo" point of view, there needs to be a corresponding archiving of all the comments and blogs that are only applicable to that version.  A way for this information to be available for those that really need it with the archived software version.  Such that someone searching for the nugget that only applies to version > 5.2 isn't inundated with information that doesn't.
+ But these are just two small, rather insignificant ideas.  I believe one of the other issues that needs addressing is deprecating documentation.  What I mean by that is just as software versions are sunset, either from a support contract or "we ain't supporting that version no mo" point of view, there needs to be a corresponding archiving of all the comments and blogs that are only applicable to that version.  A way for this information to be available for those that really need it with the archived software version.  Such that someone searching for the nugget that only applies to version > 5.2 isn't inundated with information that doesn't.
 
 With each new day, new software releases are happening: github, docker, app stores are just a few examples thereof.  And there are new docs, postings, blogs being written too.  Separating the nuggets from the mud needs to get easier.  Just as there is no central body that controls software, there is no central body that controls documents.  But maybe there needs to be an accepted set of documentation standards that people, bodies, groups and orgs can adopt that will have a meaningful impact on the slurry flow.
 
