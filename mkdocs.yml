@@ -29,10 +29,9 @@ nav:
   - index.md
   - Blog:
     - blog/index.md
-blog:
-  - post_url_date_format: yyyy/MM
 plugins:
   - blog
+      post_url_date_format: yyyy/MM
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
