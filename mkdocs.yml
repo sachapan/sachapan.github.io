@@ -29,6 +29,8 @@ nav:
   - index.md
   - Blog:
     - blog/index.md
+blog:
+  - post_url_date_format: yyyy/MM
 plugins:
   - blog
 markdown_extensions:
