@@ -2,7 +2,8 @@ site_name: sachapan's corner
 theme:
   name: material
   features:
-    - navigation.tabs
+    #- navigation.tabs
+    - navigation.indexes
       #- navigation.sections
       #- toc.integrate
    #- navigation.top
@@ -26,9 +27,10 @@ theme:
         name: Switch to light mode
       primary: teal
       accent: lime
-        #nav:
-        #- index.md
-        #- blog/index.md
+nav:
+  - index.md
+  - 'My blog': 'blog/index.md'
+  - 'My Technical documentation': 'https://sachapan.github.io/tech_notes/'
 plugins:
   - search
   - blog
