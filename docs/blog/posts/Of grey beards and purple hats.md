@@ -7,7 +7,7 @@ Categories:
 
 # Of Grey Beards and Purple Hats
 
-<img src="./grey-beard-1.jpg" width=600>
+<img src="/images/grey-beard-1.jpg" width=600>
 
  As I look in the mirror this morning, I see a grey bearded man staring back.  Of course, that isn't a recent phenomenon in this particular mirror of mine but today it reminds me of how young UNIX admins spoke in hushed tones of the older admins who had been there 'since the beginning.'  As did I for many years, because I was one of those young admins, "Pimple Faced Youth" in the [register's nomenclature](https://search.theregister.com/?q=PFY).  'Grey beard' was the term of respect for the guys (and occasionally gals) who had cut their teeth on early C and knew the esoteric ways of commands like ed and never needed to use cursor keys and certainly not a mouse.  It had little to do with a person's calendar age, it had everything to do with their level of experience and expertise.  They could talk at length about PDP-11s and mastering the ways of the olden times.  They spoke of tapes and punch cards.  Of working late at night simply because that was the only time they could get time for a compilation on the system.  They could tell stories of when Big Iron meant room sized systems with jet engine like noise.  Their fingers had individual minds of their own while on the keyboard, such was the power of their muscle memory.  The particularly cantankerous ones would simply utter harrumphs when thorny subjects like [vi versus emacs](https://en.wikipedia.org/wiki/Editor_war) were tabled and refuse to engage in such frivolous chatter.  If you are unaware, this is the equivalent of GM versus Ford debates among the passionate car culture.  Or perhaps Subaru versus Honda.  Or Yamaha versus Ducati in the land of Moto GP.  I digress.
 
@@ -59,7 +59,7 @@ Over the years after that project, numerous other projects and migrations partic
 
 ## Of Purple Hats
 
-<img src="./grey-beard-3.jpg" width=600>
+<img src="/images/grey-beard-3.jpg" width=600>
 
 On my personal systems I have come from Slackware to Debian and its variants with many stops along the way.  I have always respected the enterprise value of Red Hat from a support perspective and never had any regrets that we choose it for the organization I worked for in that brief meeting in my office so many years ago but I am more of a DIY guy and just like .deb more than .rpm.  Yes, ubuntu and friends have a place in my history and I still have some machines running ubuntu at this moment but I find myself veering more and more to Debian native, without getting into the thorny subject that is systemd.  And closely related, I have been fascinated by the emergence of the raspberry pi, the plucky credit card sized computer that runs Linux on its ARM CPU.  The hobbyists and serious industrial systems builders have done some amazing things with them.  And now there are a number of competing SBC (Single Board Computers) in that space.  And that competition is healthy.  It pushes everyone involved to do better.
 
@@ -85,7 +85,7 @@ So then what is the answer as if there were a single answer?  Is it simply a mat
 
 How would I know, I'm just a grey beard still playing with Linux.
 
-<img src="./grey-beard-2.jpg" width=600>
+<img src="/images//grey-beard-2.jpg" width=600>
 
 If case you are curious, yes, the purple hatted grey bearded images in this post were generated with AI, specifically through Bing's interface to DALL-E.  The one directly above is my favorite.  The grey beard appears to be modifying or fixing the typewriter rather than simply typing on it.  A fitting analogy to the core essence of Linux itself.
 

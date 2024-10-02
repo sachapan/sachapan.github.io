@@ -41,7 +41,7 @@ Three samples that got me thinking.
 
 Now, I subscribe firmly to the idea that brains are best for thinking and problem solving and far too valuable a resource to burden with trying to remember every trivial (at least at the time) matter.  So having a trusted system appeals to me on many levels.  The tough part is "trusted."  By 2024 I think it is safe to say that most knowledge workers have been impacted by oh-so-cool-corp dropping/cancelling/selling/changing the pricing model overnight of their wizzbang widget/app/service.
 
-![](./brain-tabs.jpg)
+![](/images/brain-tabs.jpg)
 
 I tend to approach new systems with less excitement and more caution than I once did.  But I was willing to give it a try.  And so I set a goal of trying it for three months to see if the LogSeq system was one that would work for me.  It just so happened to be the first week of January so the three month trial would run until the end of March 2024.  I was curious to see whether the "record things in the journal and don't worry about organizing the information up front" approach was going to work for me.  The month went by and I looked back and only missed making notes on one day.
 
