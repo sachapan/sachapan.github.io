@@ -1,4 +1,8 @@
-# My Mental and Technical Meanderings 
+---
+hide:
+   navigation
+title: My Mental and Technical Meanderings 
+---
 
 _Wherein vim and git are in a committed relationship._
 
@@ -9,7 +13,7 @@ Perhaps others may benefit in some way, sometime, somehow.  As I have from what 
 
 Well, that got weird, what is this the lyrics to Dust in the Wind.
 
-<img src="./business man dust storm.jpeg" width=1024>
+<img src="./business man dust storm.jpeg" width=400>
 
 
 

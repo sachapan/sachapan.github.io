@@ -2,10 +2,11 @@ site_name: sachapan's corner
 theme:
   name: material
   features:
-    #- navigation.tabs
-    - navigation.indexes
+    - navigation.tabs
+    #- navigation.indexes
+    - navigation.expand
       #- navigation.sections
-      #- toc.integrate
+    - toc.integrate
    #- navigation.top
     - search.suggest
     - search.highlight
@@ -34,8 +35,12 @@ nav:
 plugins:
   - search
   - blog
+    #archive_date_format: MMMM yyyy
+    #  - pagination_per_page: 2
     #    post_url_date_format: yyyy/MM
 markdown_extensions:
+  - toc:
+      permalink: true
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
